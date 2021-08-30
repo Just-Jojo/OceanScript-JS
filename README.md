@@ -8,7 +8,7 @@
 
 Welcome! This library is home to the JavaScript version of [Kreusada's](https://github.com/Kreusada) [OceanScript](https://github.com/OceanScript-Devs/OceanScript), an esoterical language originally written in Python.
 
-I would recommend reading the [README](https://github.com/OceanScript-Dev/OceanScript/blob/main/README.md) to understand a bit more about it.
+I would recommend reading the [README](https://github.com/OceanScript-Devs/OceanScript/blob/main/README.md) to understand a bit more about it.
 
 # JavaScript Implementation
 
