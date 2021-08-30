@@ -114,7 +114,7 @@ function encode(content) {
 }
 
 /**
- * Decode an oceanscript string
+ * Decode an OceanScript string
  * @param {String} content 
  */
 function decode(content) {
