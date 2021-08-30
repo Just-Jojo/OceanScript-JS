@@ -127,7 +127,6 @@ function decode(content) {
         if (!elm) formation += " ";
         else formation += elm;
     })
-    console.log(formation);
     var ret = "";
     formation.split(" ").forEach(elm => {
         try {
